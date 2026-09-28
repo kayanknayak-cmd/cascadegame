@@ -1,0 +1,13 @@
+{
+  "_note": "Limited-time album sets. A new set is featured every 14 days, in this order, looping forever. Burst all 6 of its groups before it ends for 200 coins and a gold ribbon. Levels lean a little toward the featured groups so the set can be finished in time.",
+  "sets": [
+    {"id": "autumn", "name": "Autumn Harvest", "groups": ["vegetables", "woodland", "halloween", "bakery", "rainy", "farm"]},
+    {"id": "seaside", "name": "Seaside Holiday", "groups": ["beach", "travel", "fruit", "sports", "camping", "music"]},
+    {"id": "winter", "name": "Cozy Winter", "groups": ["snow", "christmas", "tea_time", "bedtime", "sewing", "games"]},
+    {"id": "garden", "name": "Garden Party", "groups": ["flowers", "picnic", "hats", "pets", "art", "breakfast"]},
+    {"id": "adventure", "name": "Big Adventure", "groups": ["pirates", "jungle", "space", "vehicles", "fairy_tale", "circus"]},
+    {"id": "home", "name": "Home Sweet Home", "groups": ["kitchen", "laundry", "bathroom", "office", "toolbox", "birthday"]},
+    {"id": "school", "name": "Back to School", "groups": ["school", "bugs", "movies", "italian", "ocean", "jewelry"]},
+    {"id": "spring", "name": "Spring Fair", "groups": ["garden", "farm", "birthday", "art", "fruit", "circus"]}
+  ]
+}
