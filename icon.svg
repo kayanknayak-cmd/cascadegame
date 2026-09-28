@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <rect width="1024" height="1024" fill="#f6f1e7"/>
+  <g transform="translate(512 540)">
+    <g transform="rotate(-14) translate(-150 0)">
+      <rect x="-165" y="-230" width="330" height="460" rx="10" fill="#1c1a17" transform="translate(16 16)"/>
+      <rect x="-165" y="-230" width="330" height="460" rx="10" fill="#fffdf8" stroke="#1c1a17" stroke-width="10"/>
+      <rect x="-160" y="-225" width="320" height="52" fill="#e4502e"/>
+      <line x1="-160" y1="-173" x2="160" y2="-173" stroke="#1c1a17" stroke-width="8"/>
+    </g>
+    <g transform="rotate(12) translate(150 0)">
+      <rect x="-165" y="-230" width="330" height="460" rx="10" fill="#1c1a17" transform="translate(16 16)"/>
+      <rect x="-165" y="-230" width="330" height="460" rx="10" fill="#fffdf8" stroke="#1c1a17" stroke-width="10"/>
+      <rect x="-160" y="-225" width="320" height="52" fill="#2f6fd6"/>
+      <line x1="-160" y1="-173" x2="160" y2="-173" stroke="#1c1a17" stroke-width="8"/>
+    </g>
+    <g>
+      <rect x="-165" y="-250" width="330" height="460" rx="10" fill="#1c1a17" transform="translate(16 16)"/>
+      <rect x="-165" y="-250" width="330" height="460" rx="10" fill="#fffdf8" stroke="#1c1a17" stroke-width="10"/>
+      <rect x="-160" y="-245" width="320" height="52" fill="#f2b705"/>
+      <line x1="-160" y1="-193" x2="160" y2="-193" stroke="#1c1a17" stroke-width="8"/>
+      <polygon points="0,-120 26,-38 112,-38 42,12 68,94 0,44 -68,94 -42,12 -112,-38 -26,-38" fill="#e4502e" stroke="#1c1a17" stroke-width="8" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>

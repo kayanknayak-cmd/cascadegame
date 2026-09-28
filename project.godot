@@ -1,0 +1,43 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="Card Game (working title)"
+config/version="0.1.0"
+run/main_scene="res://game/cascade_scene.tscn"
+config/features=PackedStringArray("4.6", "GL Compatibility")
+config/icon="res://icon.svg"
+boot_splash/bg_color=Color(0.965, 0.945, 0.906, 1)
+boot_splash/show_image=false
+
+[autoload]
+
+Progress="*res://autoload/progress.gd"
+Audio="*res://autoload/audio.gd"
+Playtest="*res://autoload/playtest.gd"
+Ads="*res://autoload/ads.gd"
+
+[display]
+
+window/size/viewport_width=720
+window/size/viewport_height=1280
+window/size/window_width_override=450
+window/size/window_height_override=900
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
+window/handheld/orientation=1
+
+[rendering]
+
+textures/vram_compression/import_etc2_astc=true
+
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
